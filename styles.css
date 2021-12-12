@@ -1,0 +1,41 @@
+body {
+	background-color: #160c26;
+	background-image: url('https://mythsandmountains.com/wp-content/uploads/2018/10/myths-and-mountains-and-beyond.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-shadow: 2px 2px #ffffff;
+	border: 20px double #262991;
+}
+h1 {
+	color: purple;
+	text-align: center;
+	font-size: 72px;
+	text-decoration: underline;
+}
+p {
+	text-align: center;
+	font-size: 29px;
+	
+}
+h4 {
+	color: #36086e;
+	font-size: 30px;
+	text-indent: 15px;
+	text-decoration: underline double;
+}
+ul {
+	font-size: 25px;
+	color: #240f3d;
+}
+h2 {
+	color: #972bee;
+	text-decoration: underline dotted;
+}
+footer {
+	font-size: 25px;
+}
+mark {
+	background-color:white;
+}
+
+/*Jacob Deaver - About You!, 8/30/2021*/
